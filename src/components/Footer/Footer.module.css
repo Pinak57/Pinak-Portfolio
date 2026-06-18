@@ -1,0 +1,13 @@
+.footer {
+  background: var(--bg);
+  border-top: 1px solid var(--border);
+  padding: 2.2rem 0;
+}
+.inner {
+  display: flex; flex-direction: column;
+  align-items: center; gap: .5rem; text-align: center;
+}
+.logo { font-family: var(--ff-h); font-size: 1.2rem; font-weight: 700; text-decoration: none; color: var(--txt); }
+.lb   { color: var(--accent); }
+.inner p { color: var(--txt2); font-size: .85rem; }
+.copy    { color: var(--txt3); font-size: .78rem; }
