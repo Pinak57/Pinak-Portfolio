@@ -64,7 +64,7 @@ export default function Hero() {
             <a href="https://github.com/PinakDatta57" target="_blank" rel="noreferrer" className="s-icon" aria-label="GitHub">
               <FaGithub />
             </a>
-            <a href="https://www.linkedin.com/in/pinak-datta-121639417/" target="_blank" rel="noreferrer" className="s-icon" aria-label="LinkedIn">
+            <a href="https://www.linkedin.com/in/pinakdatta57/" target="_blank" rel="noreferrer" className="s-icon" aria-label="LinkedIn">
               <FaLinkedinIn />
             </a>
             <a href="https://www.facebook.com/pinak.datta.16547" target="_blank" rel="noreferrer" className="s-icon" aria-label="Facebook">

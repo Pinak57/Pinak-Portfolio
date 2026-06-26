@@ -11,7 +11,7 @@ const cards = [
 ];
 const socials = [
   { icon: <FaGithub />,    href: 'https://github.com/PinakDatta57',                    label: 'GitHub'   },
-  { icon: <FaLinkedinIn />,href: 'https://www.linkedin.com/in/pinak-datta-121639417/', label: 'LinkedIn' },
+  { icon: <FaLinkedinIn />,href: 'https://www.linkedin.com/in/pinakdatta57/',          label: 'LinkedIn' },
   { icon: <FaFacebookF />, href: 'https://www.facebook.com/pinak.datta.16547',         label: 'Facebook' },
 ];
 
