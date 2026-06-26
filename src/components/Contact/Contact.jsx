@@ -10,7 +10,7 @@ const cards = [
   { icon: <FaWhatsapp />, label: 'WhatsApp', val: '+880 1794-026053',    href: 'https://wa.me/8801794026053' },
 ];
 const socials = [
-  { icon: <FaGithub />,    href: 'https://github.com/Pinak57',                          label: 'GitHub'   },
+  { icon: <FaGithub />,    href: 'https://github.com/PinakDatta57',                    label: 'GitHub'   },
   { icon: <FaLinkedinIn />,href: 'https://www.linkedin.com/in/pinak-datta-121639417/', label: 'LinkedIn' },
   { icon: <FaFacebookF />, href: 'https://www.facebook.com/pinak.datta.16547',         label: 'Facebook' },
 ];
